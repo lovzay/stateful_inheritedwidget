@@ -1,2 +1,7 @@
 *.c++ linguist-detectable=false
 *.cpp linguist-detectable=false
+linux/main.cc linguist-vendored
+windows/runner/* linguist-vendored
+linux/flutter/generated_plugin_registrant.cc linguist-vendored
+linux/my_application.cc linguist-vendored
+windows/flutter/generated_plugin_registrant.cc linguist-vendored
