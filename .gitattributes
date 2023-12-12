@@ -5,3 +5,10 @@ windows/runner/* linguist-vendored
 linux/flutter/generated_plugin_registrant.cc linguist-vendored
 linux/my_application.cc linguist-vendored
 windows/flutter/generated_plugin_registrant.cc linguist-vendored
+linux/CMakeLists.txt linguist-vendored
+linux/flutter/generated_plugins.cmake linguist-vendored
+windows/flutter/generated_plugins.cmake linguist-vendored
+windows/runner/CMakeLists.txt linguist-vendored
+windows/CMakeLists.txt linguist-vendored
+linux/flutter/CMakeLists.txt linguist-vendored
+windows/flutter/CMakeLists.txt linguist-vendored
